@@ -32,6 +32,7 @@
 		C4BB8101264F33D0007C472B /* DatabaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BB8100264F33D0007C472B /* DatabaseManager.swift */; };
 		C4BB8103264F34D5007C472B /* AuthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BB8102264F34D5007C472B /* AuthManager.swift */; };
 		C4BB8105264F3522007C472B /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BB8104264F3522007C472B /* StorageManager.swift */; };
+		C4BB8107264F3C25007C472B /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BB8106264F3C25007C472B /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		C4BB8100264F33D0007C472B /* DatabaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseManager.swift; sourceTree = "<group>"; };
 		C4BB8102264F34D5007C472B /* AuthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthManager.swift; sourceTree = "<group>"; };
 		C4BB8104264F3522007C472B /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
+		C4BB8106264F3C25007C472B /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		D3FD052690C399EA1F153F3E /* Pods-instagram-clone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-instagram-clone.debug.xcconfig"; path = "Target Support Files/Pods-instagram-clone/Pods-instagram-clone.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -159,6 +161,7 @@
 				C4BB8100264F33D0007C472B /* DatabaseManager.swift */,
 				C4BB8102264F34D5007C472B /* AuthManager.swift */,
 				C4BB8104264F3522007C472B /* StorageManager.swift */,
+				C4BB8106264F3C25007C472B /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -346,6 +349,7 @@
 				C490B833264EEF25009B2CFE /* NotificationsViewController.swift in Sources */,
 				C490B848264EF208009B2CFE /* SearchResultViewController.swift in Sources */,
 				C490B83A264EF0FD009B2CFE /* LoginViewController.swift in Sources */,
+				C4BB8107264F3C25007C472B /* Extensions.swift in Sources */,
 				C490B846264EF1ED009B2CFE /* SearchViewController.swift in Sources */,
 				C490B835264EEF3F009B2CFE /* ProfileViewController.swift in Sources */,
 				C4BB8103264F34D5007C472B /* AuthManager.swift in Sources */,

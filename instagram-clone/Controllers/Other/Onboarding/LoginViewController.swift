@@ -119,6 +119,7 @@ class LoginViewController: UIViewController {
         super.viewDidLayoutSubviews()
         
         //assign frames
+        
         headerView.frame = CGRect(
             x: 0,
             y: 0.0,

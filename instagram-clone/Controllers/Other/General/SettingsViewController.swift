@@ -97,6 +97,7 @@ final class SettingsViewController: UIViewController {
         let vc = EditProfileViewController()
         vc.title = "Edit Profile"
         let navVC = UINavigationController(rootViewController: vc)
+        navVC.modalPresentationStyle = .fullScreen // When the screen goes up, it occupies the full screen
         present(navVC, animated: true)
     }
     
